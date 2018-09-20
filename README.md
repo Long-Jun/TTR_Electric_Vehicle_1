@@ -1,4 +1,4 @@
-# TTR EV1 Electronic Circuit Design
+#EV1 Electronic Circuit Design
 1.ECU</p>
 2.SDC</p>
 3.BSPD</p>
